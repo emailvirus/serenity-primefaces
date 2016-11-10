@@ -1,0 +1,7 @@
+target/*
+.idea/*
+/target/
+serenity-primefaces.iml
+src/main/main.iml
+src/test/test.iml
+bin
